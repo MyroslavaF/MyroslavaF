@@ -9,13 +9,13 @@
 <div id="badges" align = "center">
 <img src="https://komarev.com/ghpvc/?username=MyroslavaF&style=flat-square&color=blue" alt="" align = "center"/>
 </div>
-<h1>Hey there</h1>
+<h1 align = "center" >Hey there</h1>
 
 ---
 
 ### :sunny: About Me:
 
-I am a Full Stack Developer form Spain original from Ukraine
+I am a Full Stack Developer living in Spain and originally from Ukraine
 
 You can find me here [![Linkedin Badge](https://img.shields.io/badge/-Myroslava-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/myroslavadev)
 
