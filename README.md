@@ -6,9 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
-<div id="badges" align = "center">
-<img src="https://komarev.com/ghpvc/?username=MyroslavaF&style=flat-square&color=blue" alt="" align = "center"/>
-</div>
+
 <h1 align = "center" >Hey there</h1>
 
 ---
