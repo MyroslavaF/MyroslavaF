@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
-https://www.linkedin.com/in/myroslavadev/
+
 <h1 align = "center" >Hey there</h1>
 
 ---
@@ -15,7 +15,7 @@ https://www.linkedin.com/in/myroslavadev/
 
 I am a beginner Full Stack Web Developer living in Spain and originally from Ukraine
 
-You can find me here [![Linkedin Badge](https://img.shields.io/badge/-Myroslava-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/myroslavadev)
+You can find me here [![Linkedin Badge](https://img.shields.io/badge/-Myroslava-blue?style=flat&logo=Linkedin&logoColor=white)]([linkedin.com/in/myroslavadev](https://linkedin.com/in/myroslavadev/))
 
 ---
 
