@@ -15,7 +15,7 @@
 
 I am a beginner Full Stack Web Developer living in Spain and originally from Ukraine
 
-You can find me here [![Linkedin Badge](https://img.shields.io/badge/-Myroslava-blue?style=flat&logo=Linkedin&logoColor=white)]([linkedin.com/in/myroslavadev](https://linkedin.com/in/myroslavadev/))
+
 
 ---
 
