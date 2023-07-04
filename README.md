@@ -29,5 +29,5 @@ I am a beginner Full Stack Web Developer living in Spain and originally from Ukr
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="Ionic" alt="Ionic" width="" height = "40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title = "Git" alt="Git" width="40" height = "40"/>&nbsp;
- alt 
+
 
